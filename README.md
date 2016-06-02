@@ -40,7 +40,7 @@ Contextio-Android is an easy to use Android library for communicating with the C
 
 ### Acknowledgements
 
-Thanks to [Scirble](https://github.com/scribble) which is used for authenticated communication with the API server.
+Thanks to [Scirbble](https://github.com/scribble) which is used for authenticated communication with the API server.
 
 ### Lisence
 
