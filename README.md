@@ -6,7 +6,7 @@ Contextio-Android is an easy to use Android library for communicating with the C
 
 * Sign up for Developer Account [Contextio](https://context.io)
 * [Submit a request](http://support.context.io/hc/en-us/requests/new) for a 3-legged OAuth Token. This library only supports 3-legged tokens to ensure end-users of your application can only access their own account
-* Download [Contextio-Android](https://github.com/rishijash/Contextio-Android) and check out the included iOS example app. It is also available as a CocoaPod to make it even easier to add to your project
+* Download [Contextio-Android](https://github.com/rishijash/Contextio-Android) and check out the included Android example app.
 * View the full [Context.IO API documentation](https://context.io/docs/2.0) to better familiarize yourself with the API
 
 ### How to Setup
